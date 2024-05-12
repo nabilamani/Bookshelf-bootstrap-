@@ -1,0 +1,31 @@
+body{
+    background-color: #BC6FF1;
+}
+nav{
+    background-color: #52057B;
+    
+}
+.navbar-brand{
+    font-weight: 800;
+    font-family: sans-serif;
+    color: #fff;
+}
+section .container {
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: #fff;
+    color: #52057B;
+    padding: 20px;
+}
+
+label{
+    color: #464646;
+    font-weight: 600;
+}
+label{
+    color: #5fbe00;
+    font-weight: 600;
+}
+.judul_container{
+    margin-bottom: 20px;
+}
